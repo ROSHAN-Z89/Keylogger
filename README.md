@@ -1,12 +1,8 @@
-<h1 align="center">🕵️‍♂️ Cross Platform Keylogger</h1>
+<h1 align="center">🕵️‍♂️ Keylogger</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/ROSHAN-Z89/python-keylogger?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/ROSHAN-Z89/python-keylogger?style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/ROSHAN-Z89/python-keylogger?style=for-the-badge&color=red">
-  <img src="https://img.shields.io/github/license/ROSHAN-Z89/python-keylogger?style=for-the-badge&color=blue">
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/Author-ROSHAN--Z89-green?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
