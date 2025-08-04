@@ -37,6 +37,6 @@
 
 ```bash
 git clone https://github.com/ROSHAN-Z89/python-keylogger
-cd python-keylogger
-pip install pynput
+cd Keylogger
+pip install -r requirements.txt
 python keylogger.py
